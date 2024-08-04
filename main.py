@@ -2,8 +2,9 @@ import discord
 import asyncio
 import sys
 import random
-import re
+import re 
 import os
+import time
 client=discord.Client()
 
 @client.event
